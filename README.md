@@ -41,6 +41,9 @@ When a block is **full**, a new block is added dynamically:
 - `clear()`: Resets the deque by **removing all elements**.
 - `print()`: Displays the deque elements in **console output**.
 
+## Conclusion
+By developing this application, I gained a deeper understanding of template programming and efficient data structure design in C++. I strengthened my skills in algorithm optimization by implementing a block-based deque that enables fast insertions and deletions.
+
 ## User Interface
 The `main()` function implements an **interactive menu**, allowing users to:
 1. Push elements to the front/back.
